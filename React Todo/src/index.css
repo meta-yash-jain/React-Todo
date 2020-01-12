@@ -1,0 +1,7 @@
+.visited{
+    text-decoration: line-through;
+}
+
+.deleted {
+    display: none;
+}
